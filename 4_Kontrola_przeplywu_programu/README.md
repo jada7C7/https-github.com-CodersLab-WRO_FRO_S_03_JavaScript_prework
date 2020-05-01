@@ -24,7 +24,7 @@ W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomo
 W pliku script.js stwórz pętle, która 10 razy wypisze w konsoli tekst "Lubię JavaScript".
 
 #### Zadanie 4
-W pliku script.js stwórz zmienną ```result``` i przypisz do niej liczbę 0. Następnie stwórz pętle, która doda do siebie liczby od 1 do 10.
+W pliku script.js stwórz zmienną ```result``` i przypisz do niej liczbę 0. Następnie stwórz pętle, która doda do siebie liczby od 1 do 10 i wypisze wynik tej sumy w konsoli.
 
 #### Zadanie 5
 W pliku script.js napisz program, który na podstawie wartości zmiennej np. ```var n = 5;``` wypisuje wszystkie liczby od zera do **n**.
@@ -43,6 +43,29 @@ Przy każdej liczbie program ma napisać, czy  liczba jest parzysta czy nie. Np.
 #### Zadanie 6
 W pliku script.js stwórz dwie pętle niezależne i wypisz wartości ich liczników w każdej iteracji. Wykorzystaj:
 konkatenację np.```console.log("i= " + i + ", j= " + j);```
+
+n=1
+
+1,1
+
+n=2
+
+1,1
+1,2
+2,1
+2,2
+
+n=3
+
+1,1
+1,2
+1,3
+2,1
+2,2
+2,3
+3,1
+3,2
+3,3
 
 
 #### Zadanie 7
@@ -105,9 +128,21 @@ W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n**
 W pliku script.js napisz program tworzący tabliczkę mnożenia dla podanej zmiennej **n**. Wyświetl wynik w konsoli. Na przykład dla ```n = 3``` wynik będzie następujący:
 
 
-1 x 1 = 1 | 1 x 2 = 2 | 1 x 3 = 3 <br>
-2 x 1 = 2 | 2 x 2 = 4 | 2 x 3 = 6 <br>
+1 x 1 = 1 | 1 x 2 = 2 | 1 x 3 = 3 
+2 x 1 = 2 | 2 x 2 = 4 | 2 x 3 = 6 
 3 x 1 = 3 | 3 x 2 = 6 | 3 x 3 = 9
 
+lub : 
 
-Do mnożenia liczb użyj operatora *****.
+1 x 1 = 1 
+2 x 1 = 2 
+3 x 1 = 3 
+1 x 2 = 2 
+2 x 2 = 4  
+3 x 2 = 6 
+1 x 3 = 3 
+2 x 3 = 6 
+3 x 3 = 9
+
+
+Do mnożenia liczb użyj operatora *.

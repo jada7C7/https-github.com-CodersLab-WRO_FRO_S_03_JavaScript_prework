@@ -14,10 +14,10 @@ Napisz w komentarzu swoje spostrzeżenia.
 #### Zadanie 2
 
 W pliku script.js stwórz trzy zmienne. Dwie niech przechowują dowolne liczby, a trzecia o nazwie ```resultModulo``` niech przechowuje liczbę 0. Oblicz resztę z dzielenia (modulo) tych liczb i zapisz wynik w zmiennej ```resultModulo```.
-Wypisz zmienną ```resultModulo``` w konsoli. Pamiętaj, że słówka ```var``` używamy tylko podczas tworzenia zmiennej.
+Wypisz zmienną ```resultModulo``` w konsoli. Pamiętaj, że słówka ```let``` używamy tylko podczas tworzenia zmiennej.
 
 #### Zadanie 3
-W pliku script.js stwórz trzy zmienne. Dwie niech przechowują dowolne stringi, a jedna o nazwie ```joinedStrings```, niech przechowuje pusty string np. ```var joinedStrings = ""```
+W pliku script.js stwórz trzy zmienne. Dwie niech przechowują dowolne stringi, a jedna o nazwie ```joinedStrings```, niech przechowuje pusty string np. ```let joinedStrings = ""```
 Połącz stringi za pomocą konkatenacji (+) i zapisz wynik w zmiennej ```joinedStrings``` oraz wypisz go w konsoli.
 
 
@@ -25,8 +25,8 @@ Połącz stringi za pomocą konkatenacji (+) i zapisz wynik w zmiennej ```joined
 W pliku script.js swtórz dwie zmienne:
 
  ``` JavaScript
-var myNumber = 4;
-var myString = "4";
+let myNumber = 4;
+let myString = "4";
  ```
 
 Porównaj te zmienne za pomocą operatorów ```==``` oraz ```===```.
